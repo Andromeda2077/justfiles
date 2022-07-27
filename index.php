@@ -8,7 +8,7 @@
 <body>
 
 <p>Detroit beat:</p>
-<a href="./files">Folder</a>
+<a href="./files/detroit.mp3">Download</a>
 
 </body>
 </html>
